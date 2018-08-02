@@ -7,3 +7,8 @@ function coisa() {
 function aa() {
 	console.log("fuckoff");
 }
+
+
+function bb() {
+	console.log("bbb");
+}
