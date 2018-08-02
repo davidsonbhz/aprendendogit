@@ -1,0 +1,5 @@
+
+function coisa() {
+	alert('kkksks');
+}
+
